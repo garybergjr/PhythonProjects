@@ -1,4 +1,5 @@
-a = 30
+# Example 1s
+a = 40
 b = 200
 
 if b > a:
