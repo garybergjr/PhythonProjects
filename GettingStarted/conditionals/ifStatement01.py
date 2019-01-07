@@ -1,5 +1,5 @@
 # Example 1s
-a = 99
+a = 49
 b = 200
 
 if b > a:
