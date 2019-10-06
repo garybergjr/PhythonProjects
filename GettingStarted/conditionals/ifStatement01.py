@@ -1,7 +1,8 @@
-a = 33
+# Example 1s
+a = 66
 b = 200
 
-if a > b:
-    print("a is greater than b")
-else:
+if b > a:
     print("b is greater than a")
+else:
+    print("a is greater than b")
