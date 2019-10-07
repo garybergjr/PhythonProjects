@@ -65,5 +65,5 @@ except TypeError as error:
 except Exception:
     print("Unknown error")
 
-# to make sure our try/except works we will print something outside of the block.
+# to make sure our try/except works we will print something outside of the block
 print("This code executes!")
